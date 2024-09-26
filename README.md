@@ -16,7 +16,6 @@ I'm a certified **AWS Solutions Architect Associate** with a passion for **cloud
 - **Database:** MongoDB, MySQL
 
 ## 📈 Current Projects:
-- **Custom Home Theatre System**: Building a personal project for immersive sound.
 - **Insta-Clone**: Deploying a social media app on **AWS Amplify**.
 - **Restaurant App**: Hosting a cloud-based app using **AWS ECS**.
 
