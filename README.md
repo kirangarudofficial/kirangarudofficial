@@ -1,6 +1,3 @@
-Here's a bio you can use for your GitHub profile README:
-
----
 
 # Hi, I'm Kiran Garud! 👋
 
