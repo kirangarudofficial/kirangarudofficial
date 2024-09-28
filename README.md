@@ -21,4 +21,4 @@ I'm a certified **AWS Solutions Architect Associate** with a passion for **cloud
 - DevOps best practices for building highly automated infrastructure.
 
 ## 💬 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/kiran-garud-ab4674205?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2Fh7peuHPRaaCT14pOCwgPQ%3D%3D
+- [LinkedIn](https://www.linkedin.com/in/kiran-garud-ab4674205)
