@@ -1,3 +1,4 @@
+![Coverphoto](https://github.com/user-attachments/assets/f52ecf9a-56fe-4d1d-a34e-09ff0f245d82)
 
 # Hi, I'm Kiran Garud! 👋
 
