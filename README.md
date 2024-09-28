@@ -2,7 +2,7 @@
 
 # Hi, I'm Kiran Garud! 👋
 
-🌍 **Cloud Enthusiast** | 🚀 **DevOps Practitioner** | 💡 **Automation Advocate**
+AWS Certified Solutions Architect Associate | AWS & GCP | DevOps Engineer  | CI/CD | ECS & EKS | Terraform | Ansible
 
 I'm a certified **AWS Solutions Architect Associate** with a passion for **cloud computing**, **DevOps**, and **automation**. I love building scalable, secure solutions using cutting-edge tools like **Kubernetes**, **Terraform**, and **Docker**. 
 
