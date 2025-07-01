@@ -14,6 +14,7 @@ I'm a certified **AWS Solutions Architect Associate** with a passion for **cloud
 - **Database:** MongoDB, MySQL
 
 ## 📈 Current Projects:
+- **Portfolio-Website**: Currently working on DevOps Portfolio website**.
 - **Insta-Clone**: Deploying a social media app on **AWS Amplify**.
 - **Restaurant App**: Hosting a cloud-based app using **AWS ECS**.
 
