@@ -1,89 +1,98 @@
 ![Coverphoto](https://github.com/user-attachments/assets/f52ecf9a-56fe-4d1d-a34e-09ff0f245d82)
 
-# Hi, I'm Kiran Garud 👋
-
-DevOps Engineer specializing in AWS cloud infrastructure, Kubernetes orchestration, Terraform-based provisioning, and CI/CD automation. Focused on designing scalable, secure, and production-ready cloud-native systems.
-
-AWS Certified Solutions Architect Associate with hands-on experience building automated deployment pipelines and containerized application environments.
+# KIRAN GARUD
+### DevOps Engineer · Cloud Infrastructure · Automation Systems
 
 ---
 
-## 🛠️ Core Technologies & Tools
+## ENGINEERING IDENTITY
 
-**Cloud Platforms**
-- AWS (EC2, S3, Lambda, VPC, ECS, EKS)
+Cloud-focused DevOps Engineer building scalable, automated, and production-ready infrastructure.
 
-**DevOps & Containerization**
-- Docker
-- Kubernetes
-- Terraform
-- Jenkins
-- GitHub Actions
+Primary Focus:
+- Infrastructure as Code
+- Container Orchestration
+- CI/CD Automation
+- Cloud-Native Architectures
 
-**Programming & Scripting**
-- Python
-- Bash
-- JavaScript
-
-**CI/CD & Automation**
-- GitHub Actions
-- Jenkins
-- AWS CodePipeline
-- AWS CodeBuild
-- AWS CodeDeploy
-- AWS CodeCommit
-
-**Databases**
-- MongoDB
-- MySQL
+Certified AWS Solutions Architect Associate  
+Engineering with precision. Deploying with automation.
 
 ---
 
-## 🚀 Featured Projects
+## OPERATIONAL STACK
 
-### 🔹 DevOps Portfolio Platform
-Production-ready engineering portfolio showcasing:
-- Infrastructure automation with Terraform
-- Kubernetes-based deployments
-- CI/CD pipeline integration
-- Cloud-native architecture patterns
+### Cloud Layer
+AWS · EC2 · S3 · Lambda · VPC · ECS · EKS
 
-🌐 Live: https://www.kirangarudofficial.com/
+### Orchestration Layer
+Kubernetes · Docker · Container Networking
 
----
+### Automation Layer
+Terraform · Jenkins · GitHub Actions · AWS CodePipeline
 
-### 🔹 Automated DevOps Pipeline on AWS
-Designed and implemented a complete CI/CD pipeline using AWS Developer Tools:
+### Scripting Layer
+Python · Bash · JavaScript
 
-- Version control with AWS CodeCommit  
-- Artifact management via CodeArtifact  
-- Automated builds using CodeBuild  
-- Deployment automation with CodeDeploy  
-- End-to-end orchestration using CodePipeline  
-
-Result: Streamlined build and release workflow with improved deployment consistency and automation efficiency.
-
-**Tech Stack:** AWS CodeCommit · CodeBuild · CodeDeploy · CodeArtifact · CodePipeline
+### Data Layer
+MongoDB · MySQL
 
 ---
 
-### 🔹 Cloud-Native Application Deployments
-- Deployed containerized applications on AWS ECS
-- Built scalable application environments using Docker
-- Integrated CI/CD pipelines for automated deployments
+## ENGINEERING WORK
+
+### Infrastructure Automation (Terraform)
+Provisioned secure, modular AWS infrastructure:
+- Custom VPC architecture
+- Public & private subnets
+- Route tables & security groups
+- Scalable resource provisioning
+
+Result:
+Infrastructure provisioning accelerated with reusable modules and automated workflows.
 
 ---
 
-## 📚 Currently Exploring
+### CI/CD Pipeline Architecture
+Designed end-to-end deployment pipeline using:
 
-- Advanced Kubernetes architecture & EKS optimization
-- Infrastructure scaling strategies
-- Production-grade monitoring & observability
-- DevOps reliability engineering practices
+CodeCommit → CodeBuild → CodeArtifact → CodeDeploy → CodePipeline
+
+Outcome:
+Automated build, test, and deployment lifecycle ensuring consistent release delivery.
 
 ---
 
-## 🤝 Connect With Me
+### Containerized Cloud Deployments
+- Built and deployed Dockerized applications
+- Managed workloads using ECS & Kubernetes
+- Integrated CI/CD for zero-touch deployments
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/kiran-garud-ab4674205
-- 🌐 Portfolio: https://www.kirangarudofficial.com/
+---
+
+## ACTIVE SYSTEMS
+
+🌐 Portfolio Platform  
+https://www.kirangarudofficial.com/
+
+DevOps-focused engineering portfolio demonstrating:
+Infrastructure automation, deployment pipelines, and scalable cloud patterns.
+
+---
+
+## CURRENT SPRINT
+
+- Advanced Kubernetes architecture
+- EKS optimization strategies
+- Observability & monitoring systems
+- Reliability engineering fundamentals
+
+---
+
+## CONNECT
+
+LinkedIn:
+https://www.linkedin.com/in/kiran-garud-ab4674205
+
+Portfolio:
+https://www.kirangarudofficial.com/
