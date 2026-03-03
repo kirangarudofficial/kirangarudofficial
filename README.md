@@ -1,98 +1,35 @@
 ![Coverphoto](https://github.com/user-attachments/assets/f52ecf9a-56fe-4d1d-a34e-09ff0f245d82)
 
-# KIRAN GARUD
-### DevOps Engineer · Cloud Infrastructure · Automation Systems
+# Hi, I'm Kiran Garud! 👋
 
----
+DevOps Engineer with hands-on experience in AWS, Kubernetes, Terraform, and CI/CD automation. Focused on building scalable, secure, and automated cloud infrastructure.
 
-## ENGINEERING IDENTITY
+I'm a certified **AWS Solutions Architect Associate** with a passion for **cloud computing**, **DevOps**, and **automation**. I love building scalable, secure solutions using cutting-edge tools like **Kubernetes**, **Terraform**, and **Docker**. 
 
-Cloud-focused DevOps Engineer building scalable, automated, and production-ready infrastructure.
+## 🛠️ Technologies & Tools:
+- **Cloud:** AWS, EC2, S3, Lambda
+- **DevOps:** Docker, Kubernetes, Jenkins, Terraform
+- **Programming:** Python, Bash, JavaScript
+- **CI/CD & Automation:** GitHub Actions, Jenkins
+- **Database:** MongoDB, MySQL
 
-Primary Focus:
-- Infrastructure as Code
-- Container Orchestration
-- CI/CD Automation
-- Cloud-Native Architectures
+## 📈 Current Projects:
+- **Portfolio-Website**: Currently working on DevOps Portfolio website**.
+- **Insta-Clone**: Deploying a social media app on **AWS Amplify**.
+- **Restaurant App**: Hosting a cloud-based app using **AWS ECS**.
 
-Certified AWS Solutions Architect Associate  
-Engineering with precision. Deploying with automation.
+**Building Robust CI/CD Pipelines with AWS CodeCommit, CodeArtifact, CodeBuild, CodeDeploy, and CodePipeline**
+- Jun 2024 - Jun 2024Jun 2024 - Jun 2024
+    Developed and implemented comprehensive CI/CD pipelines using AWS Developer Tools. Utilized CodeCommit for version control, CodeArtifact for artifact management, CodeBuild for automated builds, CodeDeploy for seamless deployments, and CodePipeline for orchestrating the entire process. Achieved efficient, scalable, and high-quality software delivery through automation and best practices.
+    **Skills:**  AWS CodeCommit · AWS CodeBuild · AWS CodeDeploy · AWS CodeArtifact · AWS CodePipeline
+  
+![Code-Project](https://github.com/user-attachments/assets/59e0cd5f-a4da-4066-aa3f-c61e87a1582e)
 
----
+## 🌱 Learning & Exploring:
+- Advanced **Kubernetes** techniques and **EKS** deployments.
+- DevOps best practices for building highly automated infrastructure.
 
-## OPERATIONAL STACK
-
-### Cloud Layer
-AWS · EC2 · S3 · Lambda · VPC · ECS · EKS
-
-### Orchestration Layer
-Kubernetes · Docker · Container Networking
-
-### Automation Layer
-Terraform · Jenkins · GitHub Actions · AWS CodePipeline
-
-### Scripting Layer
-Python · Bash · JavaScript
-
-### Data Layer
-MongoDB · MySQL
-
----
-
-## ENGINEERING WORK
-
-### Infrastructure Automation (Terraform)
-Provisioned secure, modular AWS infrastructure:
-- Custom VPC architecture
-- Public & private subnets
-- Route tables & security groups
-- Scalable resource provisioning
-
-Result:
-Infrastructure provisioning accelerated with reusable modules and automated workflows.
-
----
-
-### CI/CD Pipeline Architecture
-Designed end-to-end deployment pipeline using:
-
-CodeCommit → CodeBuild → CodeArtifact → CodeDeploy → CodePipeline
-
-Outcome:
-Automated build, test, and deployment lifecycle ensuring consistent release delivery.
-
----
-
-### Containerized Cloud Deployments
-- Built and deployed Dockerized applications
-- Managed workloads using ECS & Kubernetes
-- Integrated CI/CD for zero-touch deployments
-
----
-
-## ACTIVE SYSTEMS
-
-🌐 Portfolio Platform  
-https://www.kirangarudofficial.com/
-
-DevOps-focused engineering portfolio demonstrating:
-Infrastructure automation, deployment pipelines, and scalable cloud patterns.
-
----
-
-## CURRENT SPRINT
-
-- Advanced Kubernetes architecture
-- EKS optimization strategies
-- Observability & monitoring systems
-- Reliability engineering fundamentals
-
----
-
-## CONNECT
-
-LinkedIn:
-https://www.linkedin.com/in/kiran-garud-ab4674205
-
-Portfolio:
-https://www.kirangarudofficial.com/
+## 💬 Let's Connect:
+- [LinkedIn](https://www.linkedin.com/in/kiran-garud-ab4674205)
+- [Instagram](http://www.instagram.com/kirangarudofficial)
+- [Portfolio](https://www.kirangarudofficial.com/)
