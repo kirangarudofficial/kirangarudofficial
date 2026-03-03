@@ -1,34 +1,89 @@
 ![Coverphoto](https://github.com/user-attachments/assets/f52ecf9a-56fe-4d1d-a34e-09ff0f245d82)
 
-# Hi, I'm Kiran Garud! 👋
+# Hi, I'm Kiran Garud 👋
 
-AWS Certified Solutions Architect Associate | AWS & GCP | DevOps Engineer  | CI/CD | ECS & EKS | Terraform | Ansible
+DevOps Engineer specializing in AWS cloud infrastructure, Kubernetes orchestration, Terraform-based provisioning, and CI/CD automation. Focused on designing scalable, secure, and production-ready cloud-native systems.
 
-I'm a certified **AWS Solutions Architect Associate** with a passion for **cloud computing**, **DevOps**, and **automation**. I love building scalable, secure solutions using cutting-edge tools like **Kubernetes**, **Terraform**, and **Docker**. 
+AWS Certified Solutions Architect Associate with hands-on experience building automated deployment pipelines and containerized application environments.
 
-## 🛠️ Technologies & Tools:
-- **Cloud:** AWS, EC2, S3, Lambda
-- **DevOps:** Docker, Kubernetes, Jenkins, Terraform
-- **Programming:** Python, Bash, JavaScript
-- **CI/CD & Automation:** GitHub Actions, Jenkins
-- **Database:** MongoDB, MySQL
+---
 
-## 📈 Current Projects:
-- **Portfolio-Website**: Currently working on DevOps Portfolio website**.
-- **Insta-Clone**: Deploying a social media app on **AWS Amplify**.
-- **Restaurant App**: Hosting a cloud-based app using **AWS ECS**.
+## 🛠️ Core Technologies & Tools
 
-**Building Robust CI/CD Pipelines with AWS CodeCommit, CodeArtifact, CodeBuild, CodeDeploy, and CodePipeline**
-- Jun 2024 - Jun 2024Jun 2024 - Jun 2024
-    Developed and implemented comprehensive CI/CD pipelines using AWS Developer Tools. Utilized CodeCommit for version control, CodeArtifact for artifact management, CodeBuild for automated builds, CodeDeploy for seamless deployments, and CodePipeline for orchestrating the entire process. Achieved efficient, scalable, and high-quality software delivery through automation and best practices.
-    **Skills:**  AWS CodeCommit · AWS CodeBuild · AWS CodeDeploy · AWS CodeArtifact · AWS CodePipeline
-  
-![Code-Project](https://github.com/user-attachments/assets/59e0cd5f-a4da-4066-aa3f-c61e87a1582e)
+**Cloud Platforms**
+- AWS (EC2, S3, Lambda, VPC, ECS, EKS)
 
-## 🌱 Learning & Exploring:
-- Advanced **Kubernetes** techniques and **EKS** deployments.
-- DevOps best practices for building highly automated infrastructure.
+**DevOps & Containerization**
+- Docker
+- Kubernetes
+- Terraform
+- Jenkins
+- GitHub Actions
 
-## 💬 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/kiran-garud-ab4674205)
-- [Instagram](http://www.instagram.com/kirangarudofficial)
+**Programming & Scripting**
+- Python
+- Bash
+- JavaScript
+
+**CI/CD & Automation**
+- GitHub Actions
+- Jenkins
+- AWS CodePipeline
+- AWS CodeBuild
+- AWS CodeDeploy
+- AWS CodeCommit
+
+**Databases**
+- MongoDB
+- MySQL
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 DevOps Portfolio Platform
+Production-ready engineering portfolio showcasing:
+- Infrastructure automation with Terraform
+- Kubernetes-based deployments
+- CI/CD pipeline integration
+- Cloud-native architecture patterns
+
+🌐 Live: https://www.kirangarudofficial.com/
+
+---
+
+### 🔹 Automated DevOps Pipeline on AWS
+Designed and implemented a complete CI/CD pipeline using AWS Developer Tools:
+
+- Version control with AWS CodeCommit  
+- Artifact management via CodeArtifact  
+- Automated builds using CodeBuild  
+- Deployment automation with CodeDeploy  
+- End-to-end orchestration using CodePipeline  
+
+Result: Streamlined build and release workflow with improved deployment consistency and automation efficiency.
+
+**Tech Stack:** AWS CodeCommit · CodeBuild · CodeDeploy · CodeArtifact · CodePipeline
+
+---
+
+### 🔹 Cloud-Native Application Deployments
+- Deployed containerized applications on AWS ECS
+- Built scalable application environments using Docker
+- Integrated CI/CD pipelines for automated deployments
+
+---
+
+## 📚 Currently Exploring
+
+- Advanced Kubernetes architecture & EKS optimization
+- Infrastructure scaling strategies
+- Production-grade monitoring & observability
+- DevOps reliability engineering practices
+
+---
+
+## 🤝 Connect With Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/kiran-garud-ab4674205
+- 🌐 Portfolio: https://www.kirangarudofficial.com/
